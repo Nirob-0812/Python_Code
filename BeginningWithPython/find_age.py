@@ -1,0 +1,5 @@
+birth_year=input("Enter Your Birth Year: ")
+print("Type of Birth Year: "+ str(type(birth_year)))
+age=2022-int(birth_year)
+print("Type of Age: "+ str(type(age)))
+print("Age is: "+str(age))
