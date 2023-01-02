@@ -6,4 +6,4 @@ for index,x in np.ndenumerate(arr):
     print("Index: ",index,"Element: ",x)
 
 for index1,y in np.ndenumerate(arr1):
-    print("Index: ",index1,"ELement: ",y)
+    print(f"Index: {index1} ELement: ,{y}")
