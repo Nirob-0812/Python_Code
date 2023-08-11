@@ -1,8 +1,7 @@
 import matplotlib.pyplot as plt
 
-input_points=input("Enter Start and end point: ")
-split_input=input_points.split()
-x1,y1,x2,y2=map(int,split_input)
+x1,y1=2,6
+x2,y2=7,9
 dx=x2-x1
 dy=y2-y1
 p=2*dy-dx
