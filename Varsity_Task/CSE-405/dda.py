@@ -20,3 +20,5 @@ for i in range(step):
 
 plt.plot(x_cordinate,y_cordinate,marker="o",color='green')
 plt.show()
+
+

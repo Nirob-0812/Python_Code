@@ -23,3 +23,7 @@ while(x<=x2):
 
 plt.plot(x_cordinate,y_cordinate,marker="o",color="green")
 plt.show()
+
+
+
+
