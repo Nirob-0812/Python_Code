@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 input_point=input("Enter Start and End Point:")
 split_input=input_point.split()
 x1,y1,x2,y2=map(int,split_input) #(1,2) (2,3) (3,4)   (6,7)
-dx=x2-x1
-dy=y2-y1
+dx=abs(x2-x1)
+dy=abs(y2-y1)
 step=max(dx,dy)
 xinc=dx/step
 yinc=dy/step

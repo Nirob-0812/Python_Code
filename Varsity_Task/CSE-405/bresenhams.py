@@ -21,6 +21,7 @@ while(x<=x2):
         y+=1
         p=p+2*dy-2*dx
 
+print(x_cordinate," ",y_cordinate)
 plt.plot(x_cordinate,y_cordinate,marker="o",color="green")
 plt.show()
 
