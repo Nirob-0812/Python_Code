@@ -5,13 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3dd714f1-b04a-4946-8c14-525d495d874f" name="Changes" comment="Delete Zip file">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow/ImageGenerator_with_Validation.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow/validation-horse-or-human.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -415,10 +421,44 @@
       <option name="project" value="LOCAL" />
       <updated>1703227881005</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Delete Zip file">
+      <option name="closed" value="true" />
+      <created>1703228206499</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1703228206499</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -430,7 +470,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Python" />
     <MESSAGE value="2nd day" />
     <MESSAGE value="3rd day" />
     <MESSAGE value="4th day" />
@@ -455,7 +494,8 @@
     <MESSAGE value="Updated" />
     <MESSAGE value="CNN" />
     <MESSAGE value="Delete Zip file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Delete Zip file" />
+    <MESSAGE value="Revert &quot;CNN&quot;&#10;&#10;This reverts commit 0fc5d5b8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;CNN&quot;&#10;&#10;This reverts commit 0fc5d5b8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
