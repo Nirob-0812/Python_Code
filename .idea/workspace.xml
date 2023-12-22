@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dd714f1-b04a-4946-8c14-525d495d874f" name="Changes" comment="CNN">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tensorflow/ImageGenerator_with_Validation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Tensorflow/ImageGenerator_with_Validation.ipynb" afterDir="false" />
+    <list default="true" id="3dd714f1-b04a-4946-8c14-525d495d874f" name="Changes" comment="Delete Zip file">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -408,7 +407,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703224404436</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Delete Zip file">
+      <option name="closed" value="true" />
+      <created>1703227881004</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1703227881005</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -447,7 +454,8 @@
     <MESSAGE value="For Jubayer" />
     <MESSAGE value="Updated" />
     <MESSAGE value="CNN" />
-    <option name="LAST_COMMIT_MESSAGE" value="CNN" />
+    <MESSAGE value="Delete Zip file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete Zip file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
